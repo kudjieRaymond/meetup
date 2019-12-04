@@ -1,0 +1,11 @@
+Django==2.2.6
+djangorestframework==3.10.3
+djangorestframework-simplejwt==4.3.0
+djoser==2.0.3
+isort==4.3.21
+lazy-object-proxy==1.4.3
+PyJWT==1.7.1
+pytz==2019.3
+six==1.12.0
+sqlparse==0.3.0
+wrapt==1.11.2

@@ -40,7 +40,8 @@ INSTALLED_APPS = [
 
     'djoser',
     'rest_framework',
-    'accounts'
+    'accounts',
+    'events'
 
 ]
 
